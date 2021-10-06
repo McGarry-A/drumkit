@@ -1,0 +1,36 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding: 4em;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 2em 0;
+}
+.kit {
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    
+}
+
+.sounds {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.keys {
+    display: flex;
+    justify-content: space-around;
+}
+
+.key {
+    height: 50px;
+    width: 50px;
+    border: none;
+    text-align: center;
+    margin: 0 2em
+}
